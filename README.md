@@ -1,5 +1,8 @@
 # Stockabily
-Class Project
+View Live:   https://miklotov.github.io/Stockabily/
+
+
+
 
 This Application is your one stop shop for your  serach and research your favorite stocks!!
 
@@ -18,3 +21,5 @@ worldtradingdata API
 iextrading.com API
 firebase
 TradingView Javascript Library.
+
+
